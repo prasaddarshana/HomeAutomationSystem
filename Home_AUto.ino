@@ -1,20 +1,3 @@
-# Home Automation System using Arduino
-
-The main objective of this project is to develop a home automation system using an Arduino board with Bluetooth being remotely controlled by any Android OS smartphone. As technology is advancing so houses are also getting smarter. Modern houses are gradually shifting from conventional switches to centralized control system, involving remote controlled switches. Presently, conventional wall switches located in different parts of the house makes it difficult for the user to go near them to operate. Even more it becomes more difficult for the elderly or physically handicapped people to do so. Remote controlled home automation system provides a most modern solution with smartphones.
-
-Circuit Diagram Demonstration of the project is in the below
-You can open "HomeAutomation.pdsprj" using Proteus Software
-
-<img src="https://github.com/uddhikaku/HomeAutomationSystem/blob/main/Circuit%20Diagram.jpg?raw=true" width="50%" />
-<img src="https://github.com/uddhikaku/HomeAutomationSystem/blob/main/Circuit%20Diagram%202%20.jpg?raw=true" width="50%" />
-
-<a href = "https://youtu.be/iCiXsfW_q14" ></a>
-<a href = "https://youtu.be/iCiXsfW_q14" ><img src="https://github.com/uddhikaku/HomeAutomationSystem/blob/main/Yt.jpg?raw=true" width="50%" /></a>
-
-### Arduino Code 
-
----
-
 int FAN1 = 13;
 int FAN2 = 12;
 int FAN3 = 11;
@@ -106,7 +89,3 @@ void loop()
     }
   }
 }
-
----
-
-Copyright (c) 2020 Uddhika Kumarasinghe
