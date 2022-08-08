@@ -108,5 +108,3 @@ void loop()
 }
 
 ---
-
-Copyright (c) 2020 Uddhika Kumarasinghe
